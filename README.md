@@ -18,14 +18,14 @@ ES2 Complemento ao Projeto
 
 
 # Requisito 2
-O segundo requisito não foi implementado, porque o aluno responsavel por este desistiu
+O segundo requisito não foi implementado, porque o aluno responsavel por este desistiu.
 
 # Requisito 3
 
 
 
 # Requisito 4
-
+Para o quarto requisito foram implementados todos os pontos pedidos.
 
 
 # Requisito 5
