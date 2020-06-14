@@ -12,3 +12,27 @@ ES2 Complemento ao Projeto
 77825 - Hugo Nunes Cristino (Requisito 5)
 
 77651 - Tomás Filipe Nunes dos Santos (Requisito 6)
+
+
+# Requisito 1
+
+
+# Requisito 2
+O segundo requisito não foi implementado, porque o aluno responsavel por este desistiu
+
+# Requisito 3
+
+
+
+# Requisito 4
+
+
+
+# Requisito 5
+
+
+
+# Requisito 6
+Para o sexto requisito foram implementados todos os pontos pedidos.
+
+
