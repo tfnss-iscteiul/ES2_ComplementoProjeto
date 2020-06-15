@@ -16,7 +16,16 @@ ES2 Complemento ao Projeto
 -----------------------------------------------
 
 # Requisito 1
+O primeiro requisito foi implementado na totalidade, havendo apenas dois problemas na sua implementação. O utilizador e o admin não
+recebem mails e as estatisticas do site apenas estão visíveis para o admin.
 
+Foram criados dois utilizadores 
+admin:
+- username -> nunoadmin
+member:
+- username -> member1
+
+O username é igual à password para os dois utilizadores.
 
 # Requisito 2
 O segundo requisito não foi implementado, porque o aluno responsavel por este desistiu.
