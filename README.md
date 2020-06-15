@@ -19,7 +19,7 @@ ES2 Complemento ao Projeto
 O primeiro requisito foi implementado na totalidade, havendo apenas dois problemas na sua implementação. O utilizador e o admin não
 recebem mails e as estatisticas do site apenas estão visíveis para o admin.
 
-Foram criados dois utilizadores 
+Foram criados dois utilizadores: 
 admin:
 - username -> nunoadmin
 member:
