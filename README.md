@@ -45,5 +45,7 @@ Na pasta encontra-se um ficheiro jar com um txt da resposta ao formulario e o pr
 
 # Requisito 6
 Para o sexto requisito foram implementados todos os pontos pedidos.
+O programa acede ao link do GitHub pedido, e extrai os dois ultimos ficheiros covid19spreading.rdf com tags associadas e gera um ficheiro html com as informações pedidas.
+Na pasta está presente o projeto em formato zip e um jar executavel.
 
 
