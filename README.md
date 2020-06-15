@@ -22,7 +22,7 @@ ES2 Complemento ao Projeto
 O segundo requisito não foi implementado, porque o aluno responsavel por este desistiu.
 
 # Requisito 3
-Para o quarto requisito foram implementados todos os pontos pedidos.
+Para o terceiro requisito foram implementados todos os pontos pedidos.
 O programa obtém os ficheiros pdf, extrai a metadata de cada um e gera um ficheiro html com as informações pedidas.
 - Devido a não ser possivel testar o programa com o servidor web, é usada uma pasta local de ficheiros em vez de aceder ao URL dos ficheiros. No entanto são criados os atalhos (hiperlinks) para cada ficheiro como deveria ser no caso do servidor funcionar.
 
