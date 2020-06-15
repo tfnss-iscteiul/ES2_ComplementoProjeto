@@ -1,5 +1,5 @@
-# ES2_ComplementoProjeto
-ES2 Complemento ao Projeto
+# ES2_Grupo10_ComplementoProjeto
+ES2_Grupo10 Complemento ao Projeto
 
 82311 - Nuno Filipe Tomás Martinho (Requisito 1)
 
