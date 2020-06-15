@@ -26,7 +26,7 @@ O segundo requisito não foi implementado, porque o aluno responsavel por este d
 
 
 # Requisito 4
-Para o quarto requisito foram implementados todos os pontos pedidos.
+Para o quarto requisito foram implementados todos os pontos pedidos É criado um ficheiro html com a tabela pedida, tambem é mandada para a consola o codigo html do ficheiro
 
 
 # Requisito 5
