@@ -34,7 +34,8 @@ Na pasta está presente o projeto em formato zip e um jar executavel.
 
 
 # Requisito 5
-
+Para o requisito 5 foram implementados todos os pontos pedidos com execpção de no ponto b não ser possivel adicionar operadores logicos , strings , integers , funções... Como não foi possivel realizar a ligação ao ponto 1 é usado um ficheiro externo o qual funciona como resposta do servidor ao formulario criado, foi usado XPath queries para ir buscar as informações pretendidas para preenchimentos dos formularios e resposta aos mesmos e o jgit para aceder ao repositorio do github.
+Na pasta encontra-se um ficheiro jar com um txt da resposta ao formulario e o projeto em zip.
 
 
 # Requisito 6
